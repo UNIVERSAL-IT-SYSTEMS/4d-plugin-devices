@@ -1,4 +1,4 @@
-# 4d-plugin-device
+# 4d-plugin-devices
 List connected CD/DVD drives
 
 Example
