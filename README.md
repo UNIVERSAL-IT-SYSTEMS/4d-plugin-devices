@@ -1,6 +1,20 @@
 # 4d-plugin-devices
 List connected CD/DVD drives
 
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🆗|🚫|🚫|
+
+Commands
+---
+
+```c
+// --- Devices
+DEVICES_LIST
+```
+
 Example
 ---
 ```
